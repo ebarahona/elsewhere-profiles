@@ -17,8 +17,8 @@
     "microformats"],
   "main": "index",
   "dependencies": {
-    "request": "2.39.x",
-    "microformat-node": "0.2.x",
+    "request": "2.66.0",
+    "microformat-node": "2.0.1",
     "underscore": "1.6.x",
     "underscore.deferred": "0.4.x"
     },
