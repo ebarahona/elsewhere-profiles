@@ -19,7 +19,7 @@
   "dependencies": {
     "request": "2.39.x",
     "microformat-node": "0.2.x",
-    "underscore": "1.6.x",
+    "underscore": "1.12.1",
     "underscore.deferred": "0.4.x"
     },
   "devDependencies": {},
